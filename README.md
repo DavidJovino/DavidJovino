@@ -20,9 +20,11 @@
 ### 💻 my favorite stack:
 
 - ReactJS
-- NodeJS & Express
+- NodeJS 
+- Express
 - Python
 - HTML & CSS
+- MongoBD
 
 “Today, I may be a weak little bug that gets tossed in the wind, washed away by the currents, and drowns, but tomorrow, I may become the butterfly that spreads its colossal wings and flies the open skies!” - Ooe Kintarou
 
