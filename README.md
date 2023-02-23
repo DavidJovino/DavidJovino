@@ -24,14 +24,6 @@
 - Python
 - HTML & CSS
 
-<style>
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 20px;
-   width: 100%;
-   text-align: center;
-}
-</style>
+“Today, I may be a weak little bug that gets tossed in the wind, washed away by the currents, and drowns, but tomorrow, I may become the butterfly that spreads its colossal wings and flies the open skies!” - Ooe Kintarou
 
-<div class="footer">⭐️ My Portfolio Page: [David Jovino](https://www.davidjovino.com) </div>
+<footer>⭐️ My Portfolio Page: [David Jovino](https://www.davidjovino.com) </footer>
