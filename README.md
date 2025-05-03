@@ -18,12 +18,12 @@
   </a>
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150"/>
 
 ## 👋 About Me
 
 I'm **David Jovino**, a software engineer passionate about **Python**, **Linux**, and **Offensive Security**.  
 Currently, I'm focused on building modular, containerized pipelines to streamline and scale Bug Bounty workflows.
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
 
 ## 🐍 My Main Stack
 
