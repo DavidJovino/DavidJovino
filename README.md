@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150"/>
 
 ## 👋 About Me
 
