@@ -23,11 +23,11 @@
 
 I'm **David Jovino**, a software engineer passionate about **Python**, **Linux**, and **Offensive Security**.  
 Currently, I'm focused on building modular, containerized pipelines to streamline and scale Bug Bounty workflows.
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+
 
 ## 🐍 My Main Stack
 
-- **Python** (core language for all tools)
+- **Python** (core language for all tools)   <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
 - Bash scripting
 - Docker & Proxmox
 - Tools: Nmap, Nuclei, httpx, ffuf, Subfinder, custom scripts
